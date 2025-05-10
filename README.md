@@ -9,3 +9,5 @@ ChatApp is a mobile application designed to facilitate seamless real-time commun
 - **User Search**: Easily find and connect with other users.
 - **Firebase Integration**: Reliable backend services for authentication, real-time database, and storage.
 
+## Preview
+https://github.com/user-attachments/assets/cfd81954-7204-4373-b6a7-38fc348c6158
